@@ -54,17 +54,56 @@ namespace Demo10teht1
                 shoppingListTextBox.Text += "lemonade ";
 
             }
-            /*
-                        string items = "";
-                        foreach (object control in StackPanel)
-
-                            if (control is CheckBox)
-                            {
-                                CheckBox checbox = (CheckBox)control;           
-                                }
-                                if ((bool)CheckBox.isChecked) items += CheckBox.Content + "";
-                            }*/
+     
         }
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+                 string items = "";
+                 foreach (object control in StackPanel)
+
+                     if (control is CheckBox)
+                     {
+                         CheckBox checbox = (CheckBox)control;           
+                         }
+                         if ((bool)CheckBox.isChecked) items += CheckBox.Content + "";
+                     }*/
